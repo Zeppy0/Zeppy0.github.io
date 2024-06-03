@@ -171,7 +171,7 @@ section .title::after{
     display: flex;
     background: url("modern-2.jpg") no-repeat center;
     height: 100vh;
-    color: #000000;
+    color: #fff ;
     min-height: 500px;
     background-size: cover;
     background-attachment: fixed;
